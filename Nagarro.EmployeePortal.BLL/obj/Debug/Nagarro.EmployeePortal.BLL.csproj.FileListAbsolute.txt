@@ -1,0 +1,7 @@
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\bin\Debug\Nagarro.EmployeePortal.BLL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\bin\Debug\Nagarro.EmployeePortal.BLL.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\bin\Debug\Nagarro.EmployeePortal.DAL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\bin\Debug\Nagarro.EmployeePortal.DAL.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\obj\Debug\Nagarro.EmployeePortal.BLL.csprojResolveAssemblyReference.cache
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\obj\Debug\Nagarro.EmployeePortal.BLL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.BLL\obj\Debug\Nagarro.EmployeePortal.BLL.pdb

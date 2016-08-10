@@ -1,0 +1,15 @@
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.Win.exe.config
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.Win.exe
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.Win.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.BLL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.DAL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.BLL.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\bin\Debug\Nagarro.EmployeePortal.DAL.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.csprojResolveAssemblyReference.cache
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.Controls.DashboardControl.resources
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.LoginForm.resources
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.MainForm.resources
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.Properties.Resources.resources
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.csproj.GenerateResource.Cache
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.exe
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.Win\obj\Debug\Nagarro.EmployeePortal.Win.pdb

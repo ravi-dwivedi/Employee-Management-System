@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Web", "Nagarro.EmployeePortal.Web\Nagarro.EmployeePortal.Web.csproj", "{075FF2B4-144B-479E-8777-656C8CECCCD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.BLL", "Nagarro.EmployeePortal.BLL\Nagarro.EmployeePortal.BLL.csproj", "{8DCD951A-B139-4D42-AEE7-1D5D8CDFC386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Win", "Nagarro.EmployeePortal.Win\Nagarro.EmployeePortal.Win.csproj", "{AE08A662-8573-4A1D-8F30-33CB01094B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Wpf", "Nagarro.EmployeePortal.Wpf\Nagarro.EmployeePortal.Wpf.csproj", "{6860AB9D-FF75-42F3-8504-5029E5C98D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.DAL", "Nagarro.EmployeePortal.DAL\Nagarro.EmployeePortal.DAL.csproj", "{1B7D3E82-0B31-4615-8FDA-5E178105155D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{075FF2B4-144B-479E-8777-656C8CECCCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075FF2B4-144B-479E-8777-656C8CECCCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075FF2B4-144B-479E-8777-656C8CECCCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075FF2B4-144B-479E-8777-656C8CECCCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCD951A-B139-4D42-AEE7-1D5D8CDFC386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCD951A-B139-4D42-AEE7-1D5D8CDFC386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCD951A-B139-4D42-AEE7-1D5D8CDFC386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCD951A-B139-4D42-AEE7-1D5D8CDFC386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE08A662-8573-4A1D-8F30-33CB01094B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE08A662-8573-4A1D-8F30-33CB01094B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE08A662-8573-4A1D-8F30-33CB01094B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE08A662-8573-4A1D-8F30-33CB01094B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6860AB9D-FF75-42F3-8504-5029E5C98D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6860AB9D-FF75-42F3-8504-5029E5C98D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6860AB9D-FF75-42F3-8504-5029E5C98D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6860AB9D-FF75-42F3-8504-5029E5C98D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B7D3E82-0B31-4615-8FDA-5E178105155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7D3E82-0B31-4615-8FDA-5E178105155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7D3E82-0B31-4615-8FDA-5E178105155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7D3E82-0B31-4615-8FDA-5E178105155D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

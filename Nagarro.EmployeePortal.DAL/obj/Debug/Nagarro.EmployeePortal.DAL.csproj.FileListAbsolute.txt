@@ -1,0 +1,4 @@
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.DAL\bin\Debug\Nagarro.EmployeePortal.DAL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.DAL\bin\Debug\Nagarro.EmployeePortal.DAL.pdb
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.DAL\obj\Debug\Nagarro.EmployeePortal.DAL.dll
+C:\Users\ravidwivedi\Documents\Visual Studio 2013\Projects\EmployeePortal\Nagarro.EmployeePortal.DAL\obj\Debug\Nagarro.EmployeePortal.DAL.pdb
